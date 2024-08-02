@@ -1,0 +1,1 @@
+let ncp = features['ncp'];
